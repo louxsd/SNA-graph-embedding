@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+dataset/*.csv
+dataset/edges/*.csv
+dataset/embeddings/*.csv
+dataset/raw_data/*.csv
+
+*.nc
+*.DS_store
+.ipynb_checkpoints/
