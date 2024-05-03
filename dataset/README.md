@@ -21,9 +21,9 @@ The subdirectory `./embeddings/` contains various embeddings. These files are sm
 #### Following_Ignoring_Relationships dataset
 
 
-File Name: Following_Ignoring_Relationships \n
-File Type: CSV (Comma-Separated Values) \n
-File Size: 1.38 MB \n
+*File Name*: Following_Ignoring_Relationships 
+File Type: CSV (Comma-Separated Values) 
+File Size: 1.38 MB
 Creation Date: 10/01/2024
 Modification Date: 04/03/2024
 Description: This file contains data on community connections, including the identity of communities and their connections, along with the type of connection.
