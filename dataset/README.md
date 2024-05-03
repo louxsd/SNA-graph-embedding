@@ -18,7 +18,7 @@ This format corresponds to the input format required by [OpenNE](https://github.
 
 The subdirectory `./embeddings/` contains various embeddings. These files are small enough to be shared via GitHub.
 
-## Following_Ignoring_Relationships dataset
+#### Following_Ignoring_Relationships dataset
 
 
 File Name: Following_Ignoring_Relationships
